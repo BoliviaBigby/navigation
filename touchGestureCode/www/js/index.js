@@ -4,8 +4,6 @@ $(document).on("pagecreate","#pageone",function(){
   
   	$('#tapholdtext').on("taphold",function random() {
 	return !Math.round(Math.random());
-}
-{
     	
 
 
